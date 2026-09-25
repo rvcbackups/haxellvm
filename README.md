@@ -1,6 +1,6 @@
-[![Coded with Cursor](https://vibecoded.fyi/badges/flat/agents/cursor.svg)](https://vibecoded.fyi/)
-
 # haxellvm
+
+[![Coded with Cursor](https://vibecoded.fyi/badges/flat/agents/cursor.svg)](https://vibecoded.fyi/)
 
 `haxellvm` is a small compiler from a deliberately useful subset of Haxe into
 native object code. The compiler is C17 and creates its module through LLVM's C API
