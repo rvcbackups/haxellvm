@@ -1,0 +1,16 @@
+# === C / C++ compiled objects ===
+*.o
+*.obj
+*.so
+*.out
+*.exe
+
+# === Python bytecode and cache ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+haxellvm
